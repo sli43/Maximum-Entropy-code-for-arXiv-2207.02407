@@ -20,23 +20,14 @@ The input samples are included in each diretory. One can use these testing data 
    
 3. Demo
    input file: XXX_band_input.dat
-   
                XXX denotes "alpha" and "beta" in the real part and imaginary part directories.
                The input file includes the measured self-energy for XXX band
                
-    output file: Eliashberg_XXXX.dat
-    
-                 XXXX denotes the index number
+   output file: Eliashberg_XXXX.dat         XXXX denotes the index number. This output includes the eliashberg function
                  
-                 This output includes the eliashberg function
+                 back_selfenergy_XXXX.dat    The selfenergy generated using the Eliashberg_XXXX.dat
                  
-                 back_selfenergy_XXXX.dat
-                 
-                 The selfenergy generated using the Eliashberg_XXXX.dat
-                 
-                 XXalpha_Prob.dat
-                 
-                 The probability of each alpha value in the Maximum Entropy calculations.
+                 XXalpha_Prob.dat            The probability of each alpha value in the Maximum Entropy calculations.
                  
     run time: 0.5 hour
                  
