@@ -11,14 +11,13 @@ The input samples are included in each diretory. One can use these testing data 
 
 1. System requirements
 
-   Linux system
-   intel compiler with mkl library
-   testing version: intel 2018.1.163
+   a. Linux system
+   b. intel compiler with mkl library
+   c. testing version: intel 2018.1.163
    
 2. Installation guide
 
-   use makefile to compile the code 
-   make
+   use makefile to compile the code: make
    
 3. Demo
 
