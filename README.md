@@ -29,7 +29,9 @@ The input samples are included in each diretory. One can use these testing data 
                
    output file: 
    Eliashberg_XXXX.dat. XXXX denotes the index number (1 or 2). This output includes the eliashberg function
+   
    back_selfenergy_XXXX.dat. The selfenergy generated using the Eliashberg_XXXX.dat
+   
    XXalpha_Prob.dat. The probability of each alpha value in the Maximum Entropy calculations.
   
    Using testing dataset:
