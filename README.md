@@ -9,4 +9,14 @@ Contact lishaozhiphys@gmail.com
 The kernel functions for the real part and imagniary part of the self-energy are different.
 The input samples are included in each diretory. One can use these testing data to run the code.
 
-Use makefile to compile the code: make 
+1. System requirements
+   Linux system
+   intel compiler with mkl library
+   testing version: intel 2018.1.163
+   
+2. Installation guide
+   use makefile to compile the code 
+   make
+   
+3. Demo
+  
