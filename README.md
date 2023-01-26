@@ -25,7 +25,7 @@ The input samples are included in each diretory. One can use these testing data 
 
    input file: 
    ***_band_input.dat
-   *** denotes "alpha" and "beta" in the real part and imaginary part directories. The input file includes the measured self-energy for XXX band
+   *** denotes "alpha" and "beta" in the real part and imaginary part directories. The input file includes the measured self-energy for *** band
                
    output file: 
    Eliashberg_XXXX.dat. XXXX denotes the index number (1 or 2). This output includes the eliashberg function
