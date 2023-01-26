@@ -12,7 +12,9 @@ The input samples are included in each diretory. One can use these testing data 
 1. System requirements
 
    a. Linux system
+   
    b. intel compiler with mkl library
+   
    c. testing version: intel 2018.1.163
    
 2. Installation guide
