@@ -19,23 +19,17 @@ The input samples are included in each diretory. One can use these testing data 
    make
    
 3. Demo
-   input file: XXX_band_input.dat
-               XXX denotes "alpha" and "beta" in the real part and imaginary part directories.
-               The input file includes the measured self-energy for XXX band
+   input file: 
+   XXX_band_input.dat
+   XXX denotes "alpha" and "beta" in the real part and imaginary part directories. The input file includes the measured self-energy for XXX band
                
-   output file: Eliashberg_XXXX.dat.\\ 
-   XXXX denotes the index number. This output includes the eliashberg function
+   output file: 
+   Eliashberg_XXXX.dat. XXXX denotes the index number. This output includes the eliashberg function
+   back_selfenergy_XXXX.dat. The selfenergy generated using the Eliashberg_XXXX.dat
+   XXalpha_Prob.dat. The probability of each alpha value in the Maximum Entropy calculations.
                  
-                 back_selfenergy_XXXX.dat.\\
-   The selfenergy generated using the Eliashberg_XXXX.dat
-                 
-                 XXalpha_Prob.dat.\\
-   The probability of each alpha value in the Maximum Entropy calculations.
-                 
-    run time: 0.5 hour
+   run time: 0.5 hour
                  
 4. instructions for use
-   go to each directory\\
-   type "make" to compile the code. In the end, you will get an application named as "main"\\
-   use "./main" to run the code
+   go to each directory. Type "make" to compile the code. In the end, you will get an application named as "main". use "./main" to run the code
   
