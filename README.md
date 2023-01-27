@@ -16,8 +16,6 @@ limitations under the License.
 
 
 The Maximum Entropy code is used to calculate the Eliashberg function with the self-energy input. 
-********************************************************
-Code can only by used with the permission of Shaozhi Li
 Contact lishaozhiphys@gmail.com
 *******************************************************
 
